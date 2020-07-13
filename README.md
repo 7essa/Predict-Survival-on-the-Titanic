@@ -1,5 +1,5 @@
-# Titanic-Machine-Learning-from-Disaster
-# Kaggle Challenges with Titanic: Machine Learning from Disaster :ship: :ocaen:
+
+# Kaggle Challenges with Titanic: Machine Learning from Disaster :ship: :ocean:
 
 
 # About 
